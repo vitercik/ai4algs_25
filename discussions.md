@@ -8,7 +8,7 @@ description: >-
 # Discussion class format
 
 - There will be twelve **discussion classes** which will center around important papers in the field. These classes will begin with a presentation by the instructor about the paper and will be followed by a discussion.
-- Discussions are organized around rotating student roles, adapted from a [course design]((https://colinraffel.com/blog/role-playing-seminar.html)) by Alec Jacobson and Colin Raffel.
+- Discussions are organized around rotating student roles, adapted from a [course design](https://colinraffel.com/blog/role-playing-seminar.html) by Alec Jacobson and Colin Raffel.
 - Each student will take on one of the following **presenter roles** for six of the twelve discussion classes and give an approximately 7-minute presentation followed by 3 minutes of questions and discussion.
 - For the remaining six discussion classes, the student will come to class having completed the **non-presenting assignment**.
 
