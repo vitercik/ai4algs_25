@@ -24,7 +24,7 @@ Artificial intelligence is expanding the frontier of algorithm design, enabling 
 ## Course activities
 
 - **[Lectures](calendar.md):** The course will include lectures which cover key technical tools used to develop and analyze ML/AI approaches to algorithmic reasoning and optimization. These include introductions to graph neural networks, mathematical optimization frameworks, and approximation algorithms.
-- **[Discussions](discussions.md):** There will be discussion classes where we cover influential, recently-published
+- **[Discussions](discussions.md):** There will be discussion classes where we cover key recently-published papers.
 - **[Project](project.md):** Students will complete a course project, in a group or individually.
 
 ## Grading
