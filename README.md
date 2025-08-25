@@ -29,9 +29,9 @@ Artificial intelligence is expanding the frontier of algorithm design, enabling 
 
 ## Grading
 
-Grading will be out of 100 points as follows:
-- **Homeworks:** 60 points (15 for each of four homeworks)
-- **[Project](https://vitercik.github.io/bwca/project/#grading):** 40 points
+Grading will be out of 100 points. The grading breakdowns are listed on the following pages:
+- **[Discussions](https://vitercik.github.io/ai4algs_25/discussions/#grading):** 60 points
+- **[Project](https://vitercik.github.io/ai4algs_25/project/#grading):** 40 points
 
 ## Related courses
 - A 200-level course on related topics was taught in 2024: [[link]](https://vitercik.github.io/ml4do/)
