@@ -8,7 +8,13 @@ description: >-
 # Course policies
 
 ## Attendance policy
-- 
+- Attendance in the class sessions marked "Lecture" in the [course schedule](schedule.md) is optional though recommended
+- Attendance at sessions marked “Discussion” is required. That said, we recognize that unexpected conflicts may arise.
+  - You may miss one session in which you are scheduled as a *Presenter*. In this case, you must submit a video recording of your presentation to the professor within one week.
+  - You may miss up to two sessions in which you are a *Non-presenter*. However, you are still required to post your discussion question on Ed.
+
+## Pass/fail requirements
+Students taking the course pass/fail can fulfill the requirements by completing the 60 discussion points, without completing the project.
 
 ## The Honor Code
 Please familiarize yourself with the [Stanford Honor Code](honorcode.stanford.edu); violations will be prosecuted to the fullest extent of the (Stanford) law.
