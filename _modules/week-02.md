@@ -1,23 +1,23 @@
 ---
-title: Basic Data Structures
+title: Algorithmic reasoning with transformers and LLMs
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+10/7
+: Class title
+  : **Discussion**{: .label .label-red }
+: - *Reading:* Akyürek, Ekin, et al. "What learning algorithm is in-context learning? investigations with linear models." ICLR'23. [[link]](https://arxiv.org/abs/2211.15661)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+10/9
+: Class title
+  : **Discussion**{: .label .label-red }
+: - *Reading:* Bai, Yu, et al. "Transformers as statisticians: Provable in-context learning with in-context algorithm selection." NeurIPS'23. [[link]](https://arxiv.org/abs/2306.04637)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+10/9
+: Class title
+  : **Discussion**{: .label .label-red }
+: - *Reading:* : Eberle, Oliver, et al. "Position: We Need An Algorithmic Understanding of Generative AI." ICML'25. [[link]](https://arxiv.org/abs/2507.07544)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+10/9
+: Class title
+  : **Discussion**{: .label .label-red }
+: - *Reading:* Liu, Fei, et al. "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model." ICML'24. [[link]](https://arxiv.org/abs/2401.02051)
