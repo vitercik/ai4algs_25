@@ -1,23 +1,19 @@
 ---
-title: Introduction to Java
+title: Foundations lectures
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+9/23
+: Introduction to class
+  : **Lecture**{: .label .label-purple }
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+9/25
+: Introduction to graph neural networks
+  : **Lecture**{: .label .label-purple }
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+9/30
+: Introduction to mathematical optimization
+  : **Lecture**{: .label .label-purple }
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+10/2
+: Introduction to approximation algorithms
+  : **Lecture**{: .label .label-purple }
