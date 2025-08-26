@@ -7,7 +7,7 @@ description: >-
 
 # Course project
 
-All students in the class will write a "mini-paper" as a final project, which can be empirical, theoretical, or both. Students should write up the results in the [NeurIPS conference format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles).
+All students in the class will write a "mini-paper" as a final project, which can be empirical, theoretical, or both. Students should write up the results in the [NeurIPS conference format](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip).
 
 ## Working in groups
 - Students are welcome to work in groups on the final project.
