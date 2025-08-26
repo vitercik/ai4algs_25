@@ -17,9 +17,9 @@ All students in the class will write a "mini-paper" as a final project, which ca
 - The paper length for a final project write-up is 3 + n where n is the number of people in the group that worked on the project, not including references or the contributions paragraph.
 
 ## Milestones
-- **October 10**: Add information about topics you find interesting to a project matching spreadsheet.
+- **October 10**: Each student will add information about topics they find interesting to a project matching spreadsheet.
 - **October 31**: Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress.
-- **December 4**: Students will present their final project during class.
+- **December 4**: Each group will present their final project during class.
 - **December 12**: Each group will submit their final report.
 
 ## Grading
