@@ -8,8 +8,8 @@ description: >-
 # Course policies
 
 ## Attendance policy
-- Attendance in the class sessions marked "Lecture" in the [course schedule](schedule.md) is optional though recommended
-- Attendance at sessions marked “Discussion” is required. That said, we recognize that unexpected conflicts may arise.
+- Attendance in the class sessions marked "Lecture" in the [course schedule](schedule.md) is optional though recommended.
+- Attendance in the sessions marked “Discussion” is required. That said, we recognize that unexpected conflicts may arise.
   - You may miss one session in which you are scheduled as a *Presenter*. In this case, you must submit a video recording of your presentation to the professor within one week.
   - You may miss up to two sessions in which you are a *Non-presenter*. However, you are still required to post your discussion question on Ed.
 
