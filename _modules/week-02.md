@@ -15,7 +15,7 @@ title: Algorithmic reasoning with transformers and LLMs
 10/14
 : **Algorithmic Understanding of GenAI**
   : **Discussion**{: .label .label-red }
-: - *Reading:* : Eberle, Oliver, et al. "Position: We Need An Algorithmic Understanding of Generative AI." ICML'25. [[link]](https://arxiv.org/abs/2507.07544)
+: - *Reading:* Eberle, Oliver, et al. "Position: We Need An Algorithmic Understanding of Generative AI." ICML'25. [[link]](https://arxiv.org/abs/2507.07544)
 
 10/16
 : **Auto-Designing Heuristics with LLMs**
