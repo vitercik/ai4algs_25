@@ -20,9 +20,6 @@ title: Algorithmic reasoning with graph neural networks
   : **Lecture**{: .label .label-purple }
 
 11/4
-: No class
-
-11/6
 : **Graph Diffusion for Combinatorial Optimization**
   : **Discussion**{: .label .label-red }
 : - *Reading:* Sun, Zhiqing, and Yiming Yang. "Difusco: Graph-based diffusion solvers for combinatorial optimization." NeurIPS'23. [[link]](https://arxiv.org/abs/2302.08224)
