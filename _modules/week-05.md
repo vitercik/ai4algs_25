@@ -1,5 +1,5 @@
 ---
-title: Theoretical guaantees
+title: Theoretical guarantees
 ---
 
 11/18
