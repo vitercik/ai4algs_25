@@ -10,6 +10,7 @@ title: Foundations lectures
 9/25
 : Introduction to graph neural networks
   : **Lecture**{: .label .label-purple }
+: [[Notes]](https://vitercik.github.io/ai4algs_25/assets/pdf/GNNs.pdf)
 
 9/30
 : Introduction to mathematical optimization
