@@ -3,7 +3,7 @@ title: Algorithmic reasoning with graph neural networks
 ---
 
 10/21
-: **GNNs as CSP heuristics**
+: **GNNs as CSP Heuristics**
   : **Discussion**{: .label .label-red }
 : - *Reading:* Tönshoff, Jan, et al. "One model, any CSP: graph neural networks as fast global search heuristics for constraint satisfaction." IJCAI'23. [[link]](https://www.ijcai.org/proceedings/2023/0476.pdf)
 
