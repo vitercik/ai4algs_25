@@ -7,6 +7,9 @@ description: >-
 
 # Course policies
 
+## Technology use
+Laptops, phones, and tablets are not permitted during "Discussion" sessions. This simple rule dramatically improves the quality of our conversations and ensures that everyone is fully present. You’ll especially appreciate it on the days when you’re the one presenting!
+
 ## Attendance policy
 - Attendance in the class sessions marked "Lecture" in the [course schedule](schedule.md) is optional though recommended.
 - Attendance in the sessions marked “Discussion” is required. That said, we recognize that unexpected conflicts may arise.
