@@ -13,9 +13,10 @@ title: Foundations lectures
 : [[Notes]](https://vitercik.github.io/ai4algs_25/assets/pdf/GNNs.pdf)
 
 9/30
-: Introduction to mathematical optimization
+: Introduction to mathematical optimization: Integer programming
   : **Lecture**{: .label .label-purple }
+  : [[Notes]](https://vitercik.github.io/ai4algs_25/assets/pdf/IP.pdf)
 
 10/2
-: Introduction to approximation algorithms
+: Introduction to mathematical optimization: Constraint satisfaction programming
   : **Lecture**{: .label .label-purple }
