@@ -15,7 +15,7 @@ title: Foundations lectures
 9/30
 : Introduction to mathematical optimization: Integer programming
   : **Lecture**{: .label .label-purple }
-  : [[Notes]](https://vitercik.github.io/ai4algs_25/assets/pdf/IP.pdf)
+: [[Notes]](https://vitercik.github.io/ai4algs_25/assets/pdf/IP.pdf)
 
 10/2
 : Introduction to mathematical optimization: Constraint satisfaction programming
