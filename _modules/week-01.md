@@ -20,3 +20,4 @@ title: Foundations lectures
 10/2
 : Introduction to mathematical optimization: Constraint satisfaction programming
   : **Lecture**{: .label .label-purple }
+: [[Notes]](https://vitercik.github.io/ai4algs_25/assets/pdf/CSP.pdf)

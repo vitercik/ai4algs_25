@@ -6,6 +6,7 @@ title: Algorithmic reasoning with transformers and LLMs
 : **In-Context Learning of Regression Algorithms**
   : **Discussion**{: .label .label-red }
 : - *Reading:* Akyürek, Ekin, et al. "What learning algorithm is in-context learning? investigations with linear models." ICLR'23. [[link]](https://arxiv.org/abs/2211.15661)
+: [[Slides]](https://vitercik.github.io/ai4algs_25/assets/pdf/1_ICL.pdf)
 
 10/9
 : **How Transformers Select Algorithms In-Context**
