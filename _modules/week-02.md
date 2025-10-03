@@ -11,7 +11,7 @@ title: Algorithmic reasoning with transformers and LLMs
 10/9
 : **How Transformers Select Algorithms In-Context**
   : **Discussion**{: .label .label-red }
-: - *Reading:* Bai, Yu, et al. "Transformers as statisticians: Provable in-context learning with in-context algorithm selection." NeurIPS'23. [[link]](https://arxiv.org/abs/2306.04637)
+: - *Reading:* Bai, Yu, et al. "Transformers as statisticians: Provable in-context learning with in-context algorithm selection." NeurIPS'23. [[link]](https://openreview.net/pdf?id=liMSqUuVg9)
 
 10/14
 : **Algorithmic Understanding of GenAI**
