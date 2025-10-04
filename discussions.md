@@ -7,23 +7,25 @@ description: >-
 
 # Discussion class format
 
-- There will be twelve **discussion classes** which will center around important papers in the field. These classes will begin with a presentation by the instructor about the paper and will be followed by a discussion.
-- Discussions are organized around rotating student roles, adapted from a [course design](https://colinraffel.com/blog/role-playing-seminar.html) by Alec Jacobson and Colin Raffel.
-- Each student will take on one of the following **presenter roles** for six of the twelve discussion classes and give an approximately 7-minute presentation followed by 3 minutes of questions and discussion.
-- For the remaining six discussion classes, the student will come to class having completed the **non-presenting assignment**.
+- There will be twelve **discussion classes** centered on important papers in the field. Each class will begin with a short presentation by the instructor and then move into discussion.
+- Discussions use rotating student roles, adapted from a [course design](https://colinraffel.com/blog/role-playing-seminar.html) by Alec Jacobson and Colin Raffel.
+- Students present **in small groups** (typically 2–3 students sharing a role on a given day). **Groups must coordinate** to create a coherent mini-talk: align your outlines, avoid overlap, and submit **one slide deck per group**.
+- Each student will serve in a **presenter role for four of the twelve classes**, contributing an **approximately 10-minute segment** (followed by ~2 minutes of Q&A for the group).
+- For the **remaining eight classes**, each student completes the **non-presenting assignment** before class.
 
 ## Presenter roles
-- **Archaeologist:** Explain where the paper sits in the literature. Find and report on one older paper cited by the current paper and one newer paper citing this current paper.
+- **Archaeologist:** Explain where the paper sits in the literature. Find and report on one older paper cited by the current paper and one newer paper citing the current paper.
 - **Researcher:** Propose a plausible follow-up project that is possible specifically because of this paper’s ideas, results, data, code, or benchmarks.
 - **NeurIPS Reviewer:** Provide a balanced, evidence-based review with at least three strengths and at least three weaknesses. Touch on the following dimensions from the [NeurIPS reviewer guidelines](https://nips.cc/Conferences/2025/ReviewerGuidelines):
-  - Quality: Is the submission technically sound? Are claims well supported (e.g., by theoretical analysis or experimental results)? Are the methods used appropriate? Is this a complete piece of work or work in progress? Are the authors careful and honest about evaluating both the strengths and weaknesses of their work?
-  - Clarity: Is the submission clearly written? Is it well organized? Does it adequately inform the reader? (Note that a superbly written paper provides enough information for an expert reader to reproduce its results.)
-  - Significance: Are the results impactful for the community? Are others (researchers or practitioners) likely to use the ideas or build on them? Does the submission address a difficult task in a better way than previous work? Does it advance our understanding/knowledge on the topic in a demonstrable way? Does it provide unique data, unique conclusions about existing data, or a unique theoretical or experimental approach?
-  - Originality: Is it clear how this work differs from previous contributions, with relevant citations provided? Does the work introduce novel tasks or methods that advance the field? Does this work offer a novel combination of existing techniques, and is the reasoning behind this combination well-articulated? As the questions above indicates, originality does not necessarily require introducing an entirely new method. Rather, a work that provides novel insights by evaluating existing methods, or demonstrates improved efficiency, fairness, etc. is also equally valuable.
+  - **Quality:** Is the submission technically sound? Are claims well supported (e.g., by theoretical analysis or experimental results)? Are the methods appropriate? Is this a complete piece of work or work in progress? Are the authors careful and honest about strengths and weaknesses?
+  - **Clarity:** Is the submission clearly written and well organized? Does it adequately inform the reader (enough detail for reproduction)?
+  - **Significance:** Are the results impactful? Will others build on the ideas? Does it address a difficult task better than prior work or advance understanding in a demonstrable way? Does it provide unique data, conclusions, or approaches?
+  - **Originality:** Is it clear how this work differs from prior contributions, with relevant citations? Does it introduce novel tasks or methods, or a well-reasoned novel combination of techniques? (Novel insights or improved efficiency/fairness can also count as originality.)
 
 ## Non-presenter assignment
-By 1pm on the day of the discussion, post at least one question about the paper to Ed Discussion. Your question can be something you found confusing or a topic you would like the class to explore.
+By **1pm on the day of the discussion**, post at least one question about the paper to Ed Discussion. Your question can be something you found confusing or a topic you’d like the class to explore.
 
 ## Grading
-- Each presentation is worth 8 points, for a total of 48 points.
-- Each non-presenter assignment is worth 2 points, for a total of 12 points.
+- **Presenter contributions:** 4 presentations × 8 points each = **32 points**.
+- **Non-presenter assignments:** 8 submissions × 2 points each = **16 points**.
+- **Total:** **48 points**.
