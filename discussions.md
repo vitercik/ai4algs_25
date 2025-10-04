@@ -9,7 +9,7 @@ description: >-
 
 - There will be twelve **discussion classes** centered on important papers in the field. Each class will begin with a short presentation by the instructor and then move into discussion.
 - Discussions use rotating student roles, adapted from a [course design](https://colinraffel.com/blog/role-playing-seminar.html) by Alec Jacobson and Colin Raffel.
-- Students present **in small groups** (typically 2–3 students sharing a role on a given day). **Groups must coordinate** to create a coherent mini-talk: align your outlines, avoid overlap, and submit **one slide deck per group**.
+- Students present **in small groups** (typically 2–3 students sharing a role on a given day). **Groups must coordinate** to create a coherent mini-talk.
 - Each student will serve in a **presenter role for four of the twelve classes**, contributing an **approximately 10-minute segment** (followed by ~2 minutes of Q&A for the group).
 - For the **remaining eight classes**, each student completes the **non-presenting assignment** before class.
 
