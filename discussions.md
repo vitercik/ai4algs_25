@@ -26,6 +26,6 @@ description: >-
 By **1pm on the day of the discussion**, post at least one question about the paper to Ed Discussion. Your question can be something you found confusing or a topic you’d like the class to explore.
 
 ## Grading
-- **Presenter contributions:** 4 presentations × 8 points each = **32 points**.
-- **Non-presenter assignments:** 8 submissions × 2 points each = **16 points**.
-- **Total:** **48 points**.
+- **Presenter contributions:** 4 presentations × **9** points each = **36 points**.
+- **Non-presenter assignments:** 8 submissions × **3** points each = **24 points**.
+- **Total:** **60 points**.
