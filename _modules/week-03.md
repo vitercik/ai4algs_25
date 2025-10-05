@@ -5,12 +5,12 @@ title: Algorithmic reasoning with graph neural networks
 10/21
 : **GNNs as CSP Heuristics**
   : **Discussion**{: .label .label-red }
-: - *Reading:* Tönshoff, Jan, et al. "One model, any CSP: graph neural networks as fast global search heuristics for constraint satisfaction." IJCAI'23. [[link]](https://www.ijcai.org/proceedings/2023/0476.pdf)
+: - *Required reading:* Tönshoff, Jan, et al. "One model, any CSP: graph neural networks as fast global search heuristics for constraint satisfaction." IJCAI'23. [[link]](https://www.ijcai.org/proceedings/2023/0476.pdf)
 
 10/23
 : **Neural Algorithmic Reasoning**
   : **Discussion**{: .label .label-red }
-: - *Reading:* Numeroso, Danilo, Davide Bacciu, and Petar Veličković. "Dual algorithmic reasoning." ICLR'23. [[link]](https://arxiv.org/abs/2302.04496)
+: - *Required reading:* Numeroso, Danilo, Davide Bacciu, and Petar Veličković. "Dual algorithmic reasoning." ICLR'23. [[link]](https://arxiv.org/abs/2302.04496)
 
 10/28
 : Introduction to diffusion models
@@ -19,7 +19,7 @@ title: Algorithmic reasoning with graph neural networks
 10/30
 : **Graph Diffusion for Combinatorial Optimization**
   : **Discussion**{: .label .label-red }
-: - *Reading:* Sun, Zhiqing, and Yiming Yang. "Difusco: Graph-based diffusion solvers for combinatorial optimization." NeurIPS'23. [[link]](https://arxiv.org/abs/2302.08224)
+: - *Required reading:* Sun, Zhiqing, and Yiming Yang. "Difusco: Graph-based diffusion solvers for combinatorial optimization." NeurIPS'23. [[link]](https://arxiv.org/abs/2302.08224)
 
 11/4
 : No class
