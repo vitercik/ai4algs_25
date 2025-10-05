@@ -21,7 +21,6 @@ description: >-
   - What’s new in our idea, and why might it succeed?
   - If successful, what difference will it make?
   - What’s the first thing we can try to test the idea?
-
 - **NeurIPS Reviewer:** Provide a balanced, evidence-based review with at least three strengths and at least three weaknesses. Touch on the following dimensions from the [NeurIPS reviewer guidelines](https://nips.cc/Conferences/2025/ReviewerGuidelines):
   - **Quality:** Is the submission technically sound? Are claims well supported (e.g., by theoretical analysis or experimental results)? Are the methods appropriate? Is this a complete piece of work or work in progress? Are the authors careful and honest about strengths and weaknesses?
   - **Clarity:** Is the submission clearly written and well organized? Does it adequately inform the reader (enough detail for reproduction)?
