@@ -15,7 +15,13 @@ description: >-
 
 ## Presenter roles
 - **Archaeologist:** Explain where the paper sits in the literature. Find and report on one older paper cited by the current paper and one newer paper citing the current paper.
-- **Researcher:** Propose a plausible follow-up project that is possible specifically because of this paper’s ideas, results, data, code, or benchmarks.
+- **Researcher:** Propose a plausible follow-up project that is possible specifically because of this paper’s ideas, results, data, code, or benchmarks. Your presentation should include answers (implicitly or explicitly) to the following simplified version of the [Heilmeier Catechism](https://stanfordh4d.substack.com/p/technology-transfer-for-defense-leveraging):
+  - What are we trying to do?
+  - How is it done today, and what are the limitations?
+  - What’s new in our idea, and why might it succeed?
+  - If successful, what difference will it make?
+  - What’s the first thing we can try to test the idea?
+
 - **NeurIPS Reviewer:** Provide a balanced, evidence-based review with at least three strengths and at least three weaknesses. Touch on the following dimensions from the [NeurIPS reviewer guidelines](https://nips.cc/Conferences/2025/ReviewerGuidelines):
   - **Quality:** Is the submission technically sound? Are claims well supported (e.g., by theoretical analysis or experimental results)? Are the methods appropriate? Is this a complete piece of work or work in progress? Are the authors careful and honest about strengths and weaknesses?
   - **Clarity:** Is the submission clearly written and well organized? Does it adequately inform the reader (enough detail for reproduction)?
