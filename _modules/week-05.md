@@ -10,7 +10,7 @@ title: Theoretical guarantees
 11/20
 : **Approximation Algorithms with Predictions**
   : **Discussion**{: .label .label-red }
-: - *Required reading:* Antoniadis, Antonios, et al. "Approximation Algorithms for Combinatorial Optimization with Predictions." ICLR'25. [[link]](https://arxiv.org/abs/2411.16600v1)
+: - *Required reading:* Antoniadis, Antonios, et al. "Approximation algorithms for combinatorial optimization with predictions." ICLR'25. [[link]](https://arxiv.org/abs/2411.16600v1)
 
 11/25
 : No class
