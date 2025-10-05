@@ -5,12 +5,12 @@ title: Theoretical guarantees
 11/18
 : **Policy Gradients for Solution Samplers**
   : **Discussion**{: .label .label-red }
-: - *Reading:* Caramanis, Constantine, et al. "Optimizing solution-samplers for combinatorial problems: The landscape of policy-gradient method." NeurIPS'23. [[link]](https://arxiv.org/abs/2310.05309)
+: - *Required reading:* Caramanis, Constantine, et al. "Optimizing solution-samplers for combinatorial problems: The landscape of policy-gradient method." NeurIPS'23. [[link]](https://arxiv.org/abs/2310.05309)
 
 11/20
 : **Approximation Algorithms with Predictions**
   : **Discussion**{: .label .label-red }
-: - *Reading:* Antoniadis, Antonios, et al. "Approximation Algorithms for Combinatorial Optimization with Predictions." ICLR'25. [[link]](https://arxiv.org/abs/2411.16600v1)
+: - *Required reading:* Antoniadis, Antonios, et al. "Approximation Algorithms for Combinatorial Optimization with Predictions." ICLR'25. [[link]](https://arxiv.org/abs/2411.16600v1)
 
 11/25
 : No class
