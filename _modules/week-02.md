@@ -6,6 +6,8 @@ title: Algorithmic reasoning with transformers and LLMs
 : **In-Context Learning of Regression Algorithms**
   : **Discussion**{: .label .label-red }
 : - *Reading:* Akyürek, Ekin, et al. "What learning algorithm is in-context learning? investigations with linear models." ICLR'23. [[link]](https://arxiv.org/abs/2211.15661)
+: - *Additional resources:*
+    - [Talk](https://www.youtube.com/watch?v=UNVl64G3BzA&t=1469s) by Jacob Andreas
 : - [Slides](https://vitercik.github.io/ai4algs_25/assets/pdf/1_ICL.pdf)
 
 10/9
@@ -14,6 +16,7 @@ title: Algorithmic reasoning with transformers and LLMs
 : - *Reading:* Bai, Yu, et al. "Transformers as statisticians: Provable in-context learning with in-context algorithm selection." NeurIPS'23. [[link]](https://openreview.net/pdf?id=liMSqUuVg9)
 : - *Additional resources:*
     - [Extended version of the paper](https://arxiv.org/pdf/2306.04637)
+    - [Talk](https://www.youtube.com/watch?v=vKZ_I05sSj0&t=3128s) by Song Mei
 : - [Slides](https://vitercik.github.io/ai4algs_25/assets/pdf/2_TF_statistician.pdf)
 
 10/14
