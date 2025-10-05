@@ -18,7 +18,12 @@ All students in the class will write a "mini-paper" as a final project, which ca
 
 ## Milestones
 - **October 10**: Each student will add information about topics they find interesting to a project matching spreadsheet.
-- **October 31**: Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress.
+- **October 31**: Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress. Your writeup should include answers (implicitly or explicitly) to the following simplified version of the [Heilmeier Catechism](https://stanfordh4d.substack.com/p/technology-transfer-for-defense-leveraging):
+  - What are you trying to do?
+  - How is it done today, and what are the limitations?
+  - What’s new in your idea, and why might it succeed?
+  - If successful, what difference will it make?
+  - What’s the first thing you will try or have already tried to test the idea? Include any initial progress you've made so far.
 - **December 4**: Each group will present their final project during class.
 - **December 12**: Each group will submit their final report.
 
