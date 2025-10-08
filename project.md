@@ -17,7 +17,7 @@ All students in the class will write a "mini-paper" as a final project, which ca
 - The paper length for a final project write-up is 3 + n where n is the number of people in the group that worked on the project, not including references or the contributions paragraph.
 
 ## Milestones
-- **October 10**: Each student will add information about topics they find interesting to a project matching spreadsheet.
+- **October 12**: Each student will add information about topics they find interesting to a project matching spreadsheet.
 - **October 31**: Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress. Your writeup should include answers (implicitly or explicitly) to the following simplified version of the [Heilmeier Catechism](https://stanfordh4d.substack.com/p/technology-transfer-for-defense-leveraging):
   - What are you trying to do?
   - How is it done today, and what are the limitations?
