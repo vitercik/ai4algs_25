@@ -31,5 +31,6 @@ title: Algorithmic reasoning with transformers and LLMs
 : **Auto-Designing Heuristics with LLMs**
   : **Discussion**{: .label .label-red }
 : - *Required reading:* Liu, Fei, et al. "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model." ICML'24. [[link]](https://arxiv.org/abs/2401.02051)
+: - [Slides](https://vitercik.github.io/ai4algs_25/assets/pdf/4_EoH.pdf)
 : - *Additional resources:*
     - Streeter, Matthew, et al. "Combining multiple heuristics online." AAAI'07. [[link]](https://dl.acm.org/doi/10.5555/1619797.1619838)
