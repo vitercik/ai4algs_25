@@ -6,6 +6,7 @@ title: Algorithmic reasoning with graph neural networks
 : **GNNs as CSP Heuristics**
   : **Discussion**{: .label .label-red }
 : - *Required reading:* Tönshoff, Jan, et al. "One model, any CSP: graph neural networks as fast global search heuristics for constraint satisfaction." IJCAI'23. [[link]](https://arxiv.org/abs/2208.10227)
+: - [Slides](https://vitercik.github.io/ai4algs_25/assets/pdf/5_ANYCSP.pdf)
 : - *Additional resources:*
     - Horvitz, Eric, et al. "A Bayesian approach to tackling hard computational problems." AAAI'01. [[link]](https://cdn.aaai.org/Symposia/Fall/2001/FS-01-04/FS01-04-010.pdf)
 
