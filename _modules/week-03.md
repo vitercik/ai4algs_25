@@ -14,6 +14,9 @@ title: Algorithmic reasoning with graph neural networks
 : **Neural Algorithmic Reasoning**
   : **Discussion**{: .label .label-red }
 : - *Required reading:* Numeroso, Danilo, Davide Bacciu, and Petar Veličković. "Dual algorithmic reasoning." ICLR'23. [[link]](https://arxiv.org/abs/2302.04496)
+: - [Slides](https://vitercik.github.io/ai4algs_25/assets/pdf/6_DAR.pdf)
+: - *Additional resources:*
+    - [Stanford CS161 notes on Ford-Fulkerson](https://stanford-cs161.github.io/winter2025/assets/files/lecture16-notes.pdf)
 
 10/28
 : Introduction to diffusion models
