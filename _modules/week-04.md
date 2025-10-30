@@ -6,6 +6,7 @@ title: Mathematical optimization
 : **LLMs for Optimization Modeling**
   : **Discussion**{: .label .label-red }
 : - *Required reading:* AhmadiTeshnizi, Ali, et al. "OptiMUS-0.3: Using large language models to model and solve optimization problems at scale." arXiv'25. [[link]](https://www.arxiv.org/abs/2407.19633)
+: - [Slides](https://vitercik.github.io/ai4algs_25/assets/pdf/7_OptiMUS.pdf)
 : - *Additional resources:*
     - Lawless, Connor, et al. "LLMs for cold-start cutting plane separator configuration." CPAIOR'25. [[link]](https://arxiv.org/abs/2412.12038)
 
