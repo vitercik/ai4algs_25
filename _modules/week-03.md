@@ -21,6 +21,7 @@ title: Algorithmic reasoning with graph neural networks
 10/28
 : Introduction to diffusion models
   : **Lecture**{: .label .label-purple }
+: [Notes](https://vitercik.github.io/ai4algs_25/assets/pdf/diffusion.pdf)
 
 10/30
 : **Graph Diffusion for Combinatorial Optimization**
