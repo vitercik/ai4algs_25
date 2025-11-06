@@ -14,6 +14,7 @@ title: Mathematical optimization
 : **Predict-and-Search for Integer Programming**
   : **Discussion**{: .label .label-red }
 : - *Required reading:* Huang, Taoan, et al. "Contrastive predict-and-search for mixed integer linear programs." ICML'24. [[link]](https://openreview.net/pdf?id=zatLnLvbs8)
+: - [Slides](https://vitercik.github.io/ai4algs_25/assets/pdf/8_ConPaS.pdf)
 : - *Additional resources:*
     - Balcan, Maria-Florina, et al. "Learning to branch: Generalization guarantees and limits of data-independent discretization." Journal of the ACM 71.2 (2024): 1-73. [[link]](https://dl.acm.org/doi/full/10.1145/3637840)
 
