@@ -62,8 +62,6 @@ You will receive feedback about whether your project is in-scope when you turn i
 
 ## Final paper: Novelty & insight (10 pts)
 
-**Grading breakdown:** Originality **3 pts**, Depth of analysis **3 pts**, Potential impact **2 pts**, Future work **2 pts**.
-
 ### Originality (3 pts)
 
 Examples include:
@@ -144,7 +142,7 @@ It should be clear exactly what problem you solved and under what assumptions.
 | **1** | Mostly clear but some missing assumptions/ambiguity. |
 | **0** | Unclear scope; it’s not obvious what is solved or proved. |
 
-### Context & related work (quality, not novelty) (2 pts)
+### Context & related work (2 pts)
 
 The report should have accurate positioning and proper attribution.
 
@@ -180,15 +178,21 @@ The reader should be able to re-run your experiments or verify your proofs. Exam
 
 ## Final presentation (10 pts)
 
-### Problem & context (2 pts)
+### Problem & context (3 pts)
+
+It should be clear exactly what problem you solved.
+
 
 | Score | Description |
 |---:|---|
-| **2** | Plain-English problem statement; audience-appropriate context. |
-| **1** | Mostly clear; minor jargon/assumption jumps. |
-| **0** | Unclear what the talk is about or why it belongs here. |
+| **3** | Plain-English problem statement; audience-appropriate context. |
+| **2** | Mostly clear; minor jargon/assumption jumps. |
+| **1** | Major use of jargon. |
+| **0** | Totally unclear what the talk is about or why it belongs here. |
 
 ### Method/contributions (3 pts)
+
+Your method should be clearly explained.
 
 | Score | Description |
 |---:|---|
@@ -197,19 +201,22 @@ The reader should be able to re-run your experiments or verify your proofs. Exam
 | **1** | Heavy jargon or slide-reading; key steps left implicit. |
 | **0** | Method/evidence largely unexplained. |
 
-### Interpretation & takeaways (3 pts)
+### Interpretation & takeaways (2 pts)
+
+The "so-what" should be clear, as should the potential impact.
 
 | Score | Description |
 |---:|---|
-| **3** | Clear “so-what”; limitations/assumptions stated; fair comparison framing (what was/wasn’t tested or proved). |
-| **2** | Main message present but caveats thin/buried. |
+| **2** | Clear “so-what”; fair comparison framing (what was/wasn’t tested or proved). |
 | **1** | Numbers/theorems with little interpretation. |
 | **0** | No takeaways beyond raw results. |
 
 ### Visuals & structure (2 pts)
 
+Emphasize slide readability, pacing, timing, and Q&A.
+
 | Score | Description |
 |---:|---|
-| **2** | Clean slides (aim for large fonts, consistent notation); one idea/slide; confident delivery (not script-reading); on time (±30s); handles Q&A well. |
+| **2** | Clean slides (large fonts, consistent notation); one idea per slide; confident delivery (not script-reading); on time (±30s); handles Q&A well. |
 | **1** | Minor readability/pacing issues; slight over/underrun (≤1 min). |
 | **0** | Illegible figures/text; >1 min over; unable to answer basic questions. |
