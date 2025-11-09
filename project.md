@@ -29,13 +29,13 @@ All students will write a **mini-paper** as a final project—empirical, theoret
 | **Dec 12**  | Final report | 20 points |
 
 ---
-## Project matching spreadsheet
+## Project matching spreadsheet (3 pts)
 
 Each student will add information about topics they find interesting to a project matching spreadsheet. The course staff won't match students, but the goal is that this process will help students find others with similar interests.
 
 ---
 
-## Progress report
+## Progress report (7 pts)
 
 Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress. Your writeup should include answers (implicitly or explicitly) to the following simplified version of the [Heilmeier Catechism](https://stanfordh4d.substack.com/p/technology-transfer-for-defense-leveraging):
 - What are you trying to do?
