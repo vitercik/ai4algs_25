@@ -16,6 +16,7 @@ All students will write a **mini-paper** as a final project—empirical, theoret
 - Paper length is **3 + *n*** pages (where *n* = group size), **excluding** references and the contributions paragraph.
 
 ## Milestones
+
 | Date        | Deliverable | Points |
 |-------------|-------------|-------------|
 | **Oct 12**  | Project matching spreadsheet | 3 points |
