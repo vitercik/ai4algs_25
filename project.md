@@ -4,7 +4,11 @@ title: Project
 description: Course policies and information.
 ---
 
+
 # Course project
+
+- TOC
+{:toc}
 
 All students will write a **mini-paper** as a final project—empirical, theoretical, or both—using the
 [NeurIPS conference format](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip).
