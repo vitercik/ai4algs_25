@@ -125,6 +125,8 @@ Include specific, realistic next steps.
 
 ### Structure & formatting (2 pts)
 
+Your report should comply with the required structure.
+
 | Score | Description |
 |---:|---|
 | **2** | NeurIPS format; within 3 + n pages (references/contributions excluded); clear sectioning; specific contributions paragraph (if applicable). |
@@ -132,6 +134,9 @@ Include specific, realistic next steps.
 | **0** | Major non-compliance with formatting instructions. |
 
 ### Problem formulation & scope (2 pts)
+
+It should be clear exactly what problem you solved and under what assumptions.
+
 
 | Score | Description |
 |---:|---|
@@ -141,6 +146,8 @@ Include specific, realistic next steps.
 
 ### Context & related work (quality, not novelty) (2 pts)
 
+The report should have accurate positioning and proper attribution.
+
 | Score | Description |
 |---:|---|
 | **2** | Concise positioning vs. closest work; accurate/sufficient citations; clear where prior methods fall short. |
@@ -148,6 +155,8 @@ Include specific, realistic next steps.
 | **0** | Missing or very weak context. |
 
 **Exposition & readability (2 pts)**
+
+The writing, notation, and figures should be clear.
 
 | Score | Description |
 |---:|---|
@@ -157,7 +166,7 @@ Include specific, realistic next steps.
 
 ### Reproducibility & artifacts (2 pts)
 
-Examples include:
+The reader should be able to re-run your experiments or verify your proofs. Examples include:
 - **Empirical:** runnable code + configs (public repo or share privately with the course staff's GitHub handles **vitercik** and **zzyunzhi**); data sources/creation, seeds, splits, metrics, hardware, hyperparams; clear how to reproduce each table/figure.  
 - **Theoretical:** complete proofs (appendix allowed); assumptions stated; auxiliary lemmas included or cited clearly (e.g., Lemma 3.5 by Vitercik et al., '25).
 
