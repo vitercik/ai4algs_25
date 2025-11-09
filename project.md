@@ -43,14 +43,16 @@ Each group will submit a short progress report of 1-2 pages. Describe your proje
 ---
 
 ## Final project grading: Course relevance
-Naturally, the project must be clearly about AI for algorithmic reasoning & optimization. Projects **not related to the course will receive 0 of the 30 final project points** (this would be like turning in your physics problem set to your literature course and expecting credit).
+The final project is graded out of 30 points (10 for the in-class presentation and 20 for the final report). Naturally, the project must be clearly about AI for algorithmic reasoning & optimization. Projects **not related to the course will receive 0 of the 30 final project points** (this would be like turning in your physics problem set to your literature course and expecting credit).
 
-In-scope examples (by lecture alignment):
-- Algorithmic reasoning as a lens to understand ML models (**10/7–10/16**)
-- ML for graph/constraint/NP-hard problems (**10/21–10/30**)
-- Learning to formalize optimization problems (**11/6**)
-- ML to guide/configure solvers (**11/11, 11/13**)
-- Theoretical guarantees for learned algorithms/heuristics (**11/18, 11/20**)
+In-scope examples include:
+- Algorithmic reasoning as a lens to understand ML models (aligning with the lectures from **10/7–10/16**)
+- ML for graph/constraint/NP-hard problems (aligning with lectures **10/21–10/30**)
+- Learning to formalize optimization problems (aligning with lecture **11/6**)
+- ML to guide/configure solvers (aligning with lectures **11/11, 11/13**)
+- Theoretical guarantees for learned algorithms/heuristics (aligning with lectures **11/18, 11/20**)
+
+You will receive feedback about whether your project is in-scope when you turn in your progress report, and will have the opportunity to turn in a revision if not.
 
 ---
 
