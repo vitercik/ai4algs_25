@@ -56,7 +56,7 @@ In-scope examples include:
 - ML to guide/configure solvers (aligning with lectures **11/11, 11/13**)
 - Theoretical guarantees for learned algorithms/heuristics (aligning with lectures **11/18, 11/20**)
 
-You will receive feedback about whether your project is in-scope when you turn in your progress report, and will have the opportunity to turn in a revision if not.
+You will receive feedback about whether your project is in-scope when you turn in your progress report and will have the opportunity to turn in a revision if not.
 
 ---
 
