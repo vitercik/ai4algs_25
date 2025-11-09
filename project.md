@@ -58,6 +58,8 @@ You will receive feedback about whether your project is in-scope when you turn i
 
 ## Final paper: Novelty & insight (10 pts)
 
+**Grading breakdown:** Originality **3 pts**, Depth of analysis **3 pts**, Potential impact **2 pts**, Future work **2 pts**.
+
 ### Originality (3 pts)
 
 Examples include:
@@ -75,7 +77,7 @@ Examples include:
 
 ### Depth of analysis (3 pts)
 
-Tools to illustrate depth include:
+You should include a coherent analysis that explains how and why your idea works or fails. Tools to illustrate depth include:
 - Ablations isolating methodological components
 - Fair baselines/metrics (e.g., both classical and learned methods)
 - Generalization tests (e.g., out-of-distribution instances)
@@ -90,7 +92,7 @@ Tools to illustrate depth include:
 
 ### Potential impact (2 pts)
 
-Impact can be:
+It should be clear who benefits from your contributions and how. Impact can come in many different forms, including:
 - **Practical:** improves solution quality/gap, runtime, etc.
 - **Scientific:** clarifies when/why learned components help or fail; new phenomena uncovered.
 - **Methodological:** benchmark/metric/protocol that others can reuse; clean baselines that become reference points.
@@ -102,6 +104,8 @@ Impact can be:
 | **0** | Unclear who benefits or how. |
 
 ### Future work (2 pts)
+
+Include specific, realistic next steps.
 
 | Score | Description |
 |---:|---|
