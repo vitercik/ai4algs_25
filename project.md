@@ -40,8 +40,10 @@ Each group will submit a short progress report of 1-2 pages. Describe your proje
 - If successful, what difference will it make?
 - What’s the first thing you will try or have already tried to test the idea? Include any initial progress you've made so far.
 
+---
+
 ## Final project grading: Course relevance
-Naturally, the project must be clearly about AI for algorithmic reasoning & optimization. Projects **not related to the course will receive 0 of the 30 project points** (this would be like turning in your physics problem set to your literature course and expecting credit).
+Naturally, the project must be clearly about AI for algorithmic reasoning & optimization. Projects **not related to the course will receive 0 of the 30 final project points** (this would be like turning in your physics problem set to your literature course and expecting credit).
 
 In-scope examples (by lecture alignment):
 - Algorithmic reasoning as a lens to understand ML models (**10/7–10/16**)
