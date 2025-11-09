@@ -29,6 +29,8 @@ All students will write a **mini-paper** as a final project—empirical, theoret
 
 Each student will add information about topics they find interesting to a project matching spreadsheet. The course staff won't match students, but the goal is that this process will help students find others with similar interests.
 
+---
+
 ## Progress report
 
 Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress. Your writeup should include answers (implicitly or explicitly) to the following simplified version of the [Heilmeier Catechism](https://stanfordh4d.substack.com/p/technology-transfer-for-defense-leveraging):
@@ -38,9 +40,7 @@ Each group will submit a short progress report of 1-2 pages. Describe your proje
 - If successful, what difference will it make?
 - What’s the first thing you will try or have already tried to test the idea? Include any initial progress you've made so far.
 
-## Final project grading
-
-### Course relevance
+## Final project grading: Course relevance
 Naturally, the project must be clearly about AI for algorithmic reasoning & optimization. Projects **not related to the course will receive 0 of the 30 project points** (this would be like turning in your physics problem set to your literature course and expecting credit).
 
 In-scope examples (by lecture alignment):
@@ -50,9 +50,11 @@ In-scope examples (by lecture alignment):
 - ML to guide/configure solvers (**11/11, 11/13**)
 - Theoretical guarantees for learned algorithms/heuristics (**11/18, 11/20**)
 
-### Final paper: Novelty & insight (10 pts)
+---
 
-**Originality (3 pts)**
+## Final paper: Novelty & insight (10 pts)
+
+### Originality (3 pts)
 
 Examples include:
 - New algorithm or heuristic
@@ -67,7 +69,7 @@ Examples include:
 | **1** | Minor variation/ablation; weak distinction from prior work. |
 | **0** | No identifiable novelty. |
 
-**Depth of analysis (3 pts)**
+### Depth of analysis (3 pts)
 
 Tools to illustrate depth include:
 - Ablations isolating methodological components
@@ -82,7 +84,7 @@ Tools to illustrate depth include:
 | **1** | Superficial analysis; results reported with little interpretation. |
 | **0** | No analysis beyond raw outcomes. |
 
-**Potential impact (2 pts)**
+### Potential impact (2 pts)
 
 Impact can be:
 - **Practical:** improves solution quality/gap, runtime, etc.
@@ -95,7 +97,7 @@ Impact can be:
 | **1** | Some value but narrow or under-substantiated. |
 | **0** | Unclear who benefits or how. |
 
-**Future work (2 pts)**
+### Future work (2 pts)
 
 | Score | Description |
 |---:|---|
@@ -105,11 +107,11 @@ Impact can be:
 
 ---
 
-### Final paper: Writing & completeness (10 pts)
+## Final paper: Writing & completeness (10 pts)
 
 **Any hallucinated reference will result in 0 out of 10 points for this section.** “Hallucinated” includes any citation that cannot be verified or misrepresents bibliographic details (incorrect title, author list, venue, or year). Citing arXiv is fine, but if the paper appeared in a conference/journal, it's preferable to cite the conference/journal version.
 
-**Structure & formatting (2 pts)**
+### Structure & formatting (2 pts)
 
 | Score | Description |
 |---:|---|
@@ -117,7 +119,7 @@ Impact can be:
 | **1** | Slightly under length; contributions paragraph vague. |
 | **0** | Major non-compliance with formatting instructions. |
 
-**Problem formulation & scope (2 pts)**
+### Problem formulation & scope (2 pts)
 
 | Score | Description |
 |---:|---|
@@ -125,7 +127,7 @@ Impact can be:
 | **1** | Mostly clear but some missing assumptions/ambiguity. |
 | **0** | Unclear scope; it’s not obvious what is solved or proved. |
 
-**Context & related work (quality, not novelty) (2 pts)**
+### Context & related work (quality, not novelty) (2 pts)
 
 | Score | Description |
 |---:|---|
@@ -141,7 +143,7 @@ Impact can be:
 | **1** | Understandable but with jargon jumps/undefined symbols or hard-to-read figures. |
 | **0** | Disorganized; illegible figures; math pasted without explanation. |
 
-**Reproducibility & artifacts (2 pts)**
+### Reproducibility & artifacts (2 pts)
 
 Examples include:
 - **Empirical:** runnable code + configs (public repo or share privately with the course staff's GitHub handles **vitercik** and **zzyunzhi**); data sources/creation, seeds, splits, metrics, hardware, hyperparams; clear how to reproduce each table/figure.  
@@ -153,10 +155,11 @@ Examples include:
 | **1** | Partially reproducible (e.g., missing seeds/configs/proof details). |
 | **0** | Not reproducible; key details missing. |
 
+---
 
-### Final presentation (10 pts)
+## Final presentation (10 pts)
 
-**Problem & context (2 pts)**
+### Problem & context (2 pts)
 
 | Score | Description |
 |---:|---|
@@ -164,7 +167,7 @@ Examples include:
 | **1** | Mostly clear; minor jargon/assumption jumps. |
 | **0** | Unclear what the talk is about or why it belongs here. |
 
-**Method/contributions (3 pts)**
+### Method/contributions (3 pts)
 
 | Score | Description |
 |---:|---|
@@ -173,7 +176,7 @@ Examples include:
 | **1** | Heavy jargon or slide-reading; key steps left implicit. |
 | **0** | Method/evidence largely unexplained. |
 
-**Interpretation & takeaways**
+### Interpretation & takeaways (3 pts)
 
 | Score | Description |
 |---:|---|
@@ -182,7 +185,7 @@ Examples include:
 | **1** | Numbers/theorems with little interpretation. |
 | **0** | No takeaways beyond raw results. |
 
-**Visuals & structure**
+### Visuals & structure (2 pts)
 
 | Score | Description |
 |---:|---|
