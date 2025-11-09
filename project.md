@@ -109,6 +109,7 @@ Impact can be:
 > Citing arXiv is fine, but if the paper appeared in a conference/journal, it's preferable to cite the conference/journal version.
 
 #### Structure & formatting (2 pts)
+
 | Score | Description |
 |---:|---|
 | **2** | NeurIPS format; within 3 + n pages (references/contributions excluded); clear sectioning; specific contributions paragraph (if applicable). |
@@ -116,6 +117,7 @@ Impact can be:
 | **0** | Major non-compliance with formatting instructions. |
 
 #### Problem formulation & scope (2 pts)
+
 | Score | Description |
 |---:|---|
 | **2** | Precise task definition, assumptions, objectives, and evaluation setup; terms defined on first use. |
@@ -123,6 +125,7 @@ Impact can be:
 | **0** | Unclear scope; it’s not obvious what is solved or proved. |
 
 #### Context & related work (quality, not novelty) (2 pts)
+
 | Score | Description |
 |---:|---|
 | **2** | Concise positioning vs. closest work; accurate/sufficient citations; clear where prior methods fall short. |
@@ -130,6 +133,7 @@ Impact can be:
 | **0** | Missing or very weak context. |
 
 #### Exposition & readability (2 pts)
+
 | Score | Description |
 |---:|---|
 | **2** | Clear narrative; consistent notation; legible, labeled figures/tables referenced in text. |
@@ -138,8 +142,8 @@ Impact can be:
 
 #### Reproducibility & artifacts (2 pts)
 Examples include:
-**Empirical:** runnable code + configs (public repo or share privately with the course staff's GitHub handles **vitercik** and **zzyunzhi**); data sources/creation, seeds, splits, metrics, hardware, hyperparams; clear how to reproduce each table/figure.  
-**Theoretical:** complete proofs (appendix allowed); assumptions stated; auxiliary lemmas included or cited clearly (e.g., Lemma 3.5 by Vitercik et al., '25).
+- **Empirical:** runnable code + configs (public repo or share privately with the course staff's GitHub handles **vitercik** and **zzyunzhi**); data sources/creation, seeds, splits, metrics, hardware, hyperparams; clear how to reproduce each table/figure.  
+- **Theoretical:** complete proofs (appendix allowed); assumptions stated; auxiliary lemmas included or cited clearly (e.g., Lemma 3.5 by Vitercik et al., '25).
 
 | Score | Description |
 |---:|---|
@@ -152,6 +156,7 @@ Examples include:
 ## Final presentation (10 pts)
 
 #### Problem & context (2 pts)
+
 | Score | Description |
 |---:|---|
 | **2** | Plain-English problem statement; audience-appropriate context. |
@@ -159,6 +164,7 @@ Examples include:
 | **0** | Unclear what the talk is about or why it belongs here. |
 
 #### Method/contributions (3 pts)
+
 | Score | Description |
 |---:|---|
 | **3** | Right level of explanation; key choices/assumptions surfaced; notation defined on first use. |
@@ -167,6 +173,7 @@ Examples include:
 | **0** | Method/evidence largely unexplained. |
 
 #### Interpretation & takeaways (3 pts)
+
 | Score | Description |
 |---:|---|
 | **3** | Clear “so-what”; limitations/assumptions stated; fair comparison framing (what was/wasn’t tested or proved). |
@@ -175,6 +182,7 @@ Examples include:
 | **0** | No takeaways beyond raw results. |
 
 #### Visuals & structure (2 pts)
+
 | Score | Description |
 |---:|---|
 | **2** | Clean slides (aim for large fonts, consistent notation); one idea/slide; confident delivery (not script-reading); on time (±30s); handles Q&A well. |
