@@ -47,7 +47,7 @@ Each group will submit a short progress report of 1-2 pages. Describe your proje
 ---
 
 ## Final project grading: Course relevance
-The final project is graded out of 30 points (10 for the in-class presentation and 20 for the final report). Naturally, the project must be clearly about AI for algorithmic reasoning & optimization. Projects **not related to the course will receive 0 of the 30 final project points** (this would be like turning in your physics problem set to your literature course and expecting credit).
+The final project is graded out of 30 points (10 for the in-class presentation and 20 for the final report). Naturally, the project must be clearly about AI for algorithmic reasoning & optimization. Projects **not related to the course will receive 0 of the 30 final project points**.
 
 In-scope examples include:
 - Algorithmic reasoning as a lens to understand ML models (aligning with the lectures from **10/7–10/16**)
