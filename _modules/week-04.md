@@ -22,5 +22,6 @@ title: Mathematical optimization
 : **Differentiable Integer Programming**
   : **Discussion**{: .label .label-red }
 : - *Required reading:* Geng, Zijie, et al. "Differentiable integer linear programming." ICLR'25. [[link]](https://openreview.net/pdf?id=FPfCUJTsCn)
+: - [Slides](https://vitercik.github.io/ai4algs_25/assets/pdf/9_DiffILO.pdf)
 : - *Additional resources:*
     - Wang, Po-Wei, et al. "SATnet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver." ICML'19. [[link]](https://proceedings.mlr.press/v97/wang19e.html)
