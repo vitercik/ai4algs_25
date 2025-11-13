@@ -3,7 +3,7 @@ title: Final project
 ---
 
 12/2
-: Guest lecture
+: No class: Work on projects!
 
 12/4
 : Final project presentations
