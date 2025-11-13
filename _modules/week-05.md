@@ -6,6 +6,7 @@ title: Theoretical guarantees
 : **Policy Gradients for Solution Samplers**
   : **Discussion**{: .label .label-red }
 : - *Required reading:* Caramanis, Constantine, et al. "Optimizing solution-samplers for combinatorial problems: The landscape of policy-gradient method." NeurIPS'23. [[link]](https://arxiv.org/abs/2310.05309)
+: - [Slides](https://vitercik.github.io/ai4algs_25/assets/pdf/10_landscape.pdf)
 
 11/20
 : **Approximation Algorithms with Predictions**
