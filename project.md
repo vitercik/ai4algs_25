@@ -152,7 +152,7 @@ The report should have accurate positioning and proper attribution.
 | **1** | Coverage OK but thin; shortcomings of prior work unclear. |
 | **0** | Missing or very weak context. |
 
-### Exposition & readability (2 pts)**
+### Exposition & readability (2 pts)
 
 The writing, notation, and figures should be clear.
 
