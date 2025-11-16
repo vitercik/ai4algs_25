@@ -11,7 +11,7 @@ title: Theoretical guarantees
 11/20
 : **Approximation Algorithms with Predictions**
   : **Discussion**{: .label .label-red }
-: - *Required reading:* Antoniadis, Antonios, et al. "Approximation algorithms for combinatorial optimization with predictions." ICLR'25. [[link]](https://arxiv.org/abs/2411.16600v1)
+: - *Required reading:* Antoniadis, Antonios, et al. "Approximation algorithms for combinatorial optimization with predictions." ICLR'25. [[link]](https://openreview.net/pdf?id=AEFVa6VMu1)
 : - *Aditional resources:*
     - Shen, Judy Hanwen, Ellen Vitercik, and Anders Wikum. "Algorithms with calibrated machine learning predictions." ICML'25. [[link]](https://arxiv.org/abs/2502.02861)
 
