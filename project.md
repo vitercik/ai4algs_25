@@ -190,18 +190,18 @@ It should be clear exactly what problem you solved.
 | **1** | Major use of jargon. |
 | **0** | Totally unclear what the talk is about or why it belongs here. |
 
-### Method/contributions (3 pts)
+### Method (3 pts)
 
 Your method should be clearly explained.
 
 | Score | Description |
 |---:|---|
-| **3** | Right level of explanation; key choices/assumptions surfaced; notation defined on first use. |
+| **3** | Right level of explanation; key definitions/assumptions mentioned; notation defined on first use. |
 | **2** | Understandable but skips a few definitions. |
 | **1** | Heavy jargon or slide-reading; key steps left implicit. |
 | **0** | Method/evidence largely unexplained. |
 
-### Takeaways (2 pts)
+### Takeaways of results (2 pts)
 
 The "so-what" should be clear, as should the potential impact.
 
