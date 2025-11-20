@@ -196,7 +196,7 @@ Your method should be clearly explained.
 
 | Score | Description |
 |---:|---|
-| **3** | Key definitions/assumptions/steps mentioned; notation defined on first use. |
+| **3** | Key definitions/assumptions/steps clearly described; notation defined on first use. |
 | **2** | Understandable but skips a few definitions. |
 | **1** | Heavy jargon in describing the method; key steps left implicit. |
 | **0** | Method/evidence largely unexplained. |
@@ -213,10 +213,10 @@ The "so-what" should be clear, as should the potential impact.
 
 ### Delivery (2 pts)
 
-Emphasize slide readability, pacing, timing, and Q&A.
+Emphasize slide readability, pacing, and timing.
 
 | Score | Description |
 |---:|---|
-| **2** | Clean slides (large fonts, consistent notation); one idea per slide; confident delivery (not script-reading); on time (±30s); handles Q&A well. |
-| **1** | Minor readability/pacing issues; slight over/underrun (≤1 min). |
-| **0** | Illegible figures/text; >1 min over; unable to answer basic questions. |
+| **2** | Clean slides (large fonts, consistent notation); one idea per slide; confident delivery (not script-reading); on time (± a few seconds). |
+| **1** | Minor readability/pacing issues. |
+| **0** | Illegible figures/text; script-reading; unable to answer basic questions; major pacing issues. |
