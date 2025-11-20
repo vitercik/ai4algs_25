@@ -198,7 +198,7 @@ Your method should be clearly explained.
 |---:|---|
 | **3** | Right level of explanation; key definitions/assumptions mentioned; notation defined on first use. |
 | **2** | Understandable but skips a few definitions. |
-| **1** | Heavy jargon or slide-reading; key steps left implicit. |
+| **1** | Heavy jargon; key steps left implicit. |
 | **0** | Method/evidence largely unexplained. |
 
 ### Takeaways of results (2 pts)
