@@ -186,8 +186,8 @@ It should be clear exactly what problem you solved.
 | Score | Description |
 |---:|---|
 | **3** | Plain-English problem statement with sufficient context for the audience to follow. |
-| **2** | Mostly clear; minor jargon/assumption jumps. |
-| **1** | Major use of jargon. |
+| **2** | Mostly clear; minor jargon. |
+| **1** | Heavy jargon in describing the problem. |
 | **0** | Totally unclear what the talk is about or why it belongs here. |
 
 ### Method (3 pts)
@@ -196,9 +196,9 @@ Your method should be clearly explained.
 
 | Score | Description |
 |---:|---|
-| **3** | Right level of explanation; key definitions/assumptions mentioned; notation defined on first use. |
+| **3** | Key definitions/assumptions/steps mentioned; notation defined on first use. |
 | **2** | Understandable but skips a few definitions. |
-| **1** | Heavy jargon; key steps left implicit. |
+| **1** | Heavy jargon in describing the method; key steps left implicit. |
 | **0** | Method/evidence largely unexplained. |
 
 ### Takeaways of results (2 pts)
