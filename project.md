@@ -73,7 +73,7 @@ Examples include:
 | Score | Description |
 |---:|---|
 | **3** | Clear novelty with strong supporting evidence. |
-| **2** | Incremental extension of an existing idea. |
+| **2** | Straight-forward extension of an existing idea. |
 | **1** | Minor variation/ablation; weak distinction from prior work. |
 | **0** | No identifiable novelty. |
 
