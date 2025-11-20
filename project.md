@@ -68,12 +68,12 @@ Examples include:
 - New algorithm or heuristic
 - New theoretical result
 - New problem formulation/evaluation/analysis protocol or benchmark
-- New combination of known elements that yields a surprising conceptual advance
+- New combination of known elements that yields a surprising result
 
 | Score | Description |
 |---:|---|
-| **3** | Clear, defensible novelty claim with strong supporting evidence. |
-| **2** | Incremental extension with some new idea, or a new benchmark without sharp insight. |
+| **3** | Clear novelty with strong supporting evidence. |
+| **2** | Incremental extension of an existing idea. |
 | **1** | Minor variation/ablation; weak distinction from prior work. |
 | **0** | No identifiable novelty. |
 
@@ -83,11 +83,13 @@ You should include a coherent analysis that explains how and why your idea works
 - Ablations isolating methodological components
 - Fair baselines/metrics (e.g., both classical and learned methods)
 - Generalization tests (e.g., out-of-distribution instances)
-- Counterexamples/failure modes
+- Thorough proofs
+- Counterexamples/failure modes (e.g., why a hypothesized theorem doesn't hold)
+(Not all depth tools will be relevant to all projects.)
 
 | Score | Description |
 |---:|---|
-| **3** | Relevant depth tools executed well; clear explanation of what drove gains/losses; limitations surfaced. |
+| **3** | Relevant depth tools executed well. |
 | **2** | Some depth but gaps (e.g., missing ablation or weak baselines). |
 | **1** | Superficial analysis; results reported with little interpretation. |
 | **0** | No analysis beyond raw outcomes. |
@@ -95,9 +97,8 @@ You should include a coherent analysis that explains how and why your idea works
 ### Potential impact (2 pts)
 
 It should be clear who benefits from your contributions and how. Impact can come in many different forms, including:
-- **Practical:** improves solution quality/gap, runtime, etc.
-- **Scientific:** clarifies when/why learned components help or fail; new phenomena uncovered.
-- **Methodological:** benchmark/metric/protocol that others can reuse; clean baselines that become reference points.
+- **Methodolgical:** E.g., improves solution quality/gap, runtime, etc.
+- **Theoretical:** E.g., clarifies when/why learned components help or fail.
 
 | Score | Description |
 |---:|---|
@@ -111,7 +112,7 @@ Include specific, realistic next steps.
 
 | Score | Description |
 |---:|---|
-| **2** | Specific 2–3 next steps with success criteria and known obstacles. |
+| **2** | Specific 2–3 next steps. |
 | **1** | Plausible but high-level ideas with limited detail. |
 | **0** | Vague or no future work. |
 
@@ -135,10 +136,9 @@ Your report should comply with the required structure.
 
 It should be clear exactly what problem you solved and under what assumptions.
 
-
 | Score | Description |
 |---:|---|
-| **2** | Precise task definition, assumptions, objectives, and evaluation setup; terms defined on first use. |
+| **2** | Precise definitions, assumptions, objectives, and evaluation setup (if applicable). |
 | **1** | Mostly clear but some missing assumptions/ambiguity. |
 | **0** | Unclear scope; it’s not obvious what is solved or proved. |
 
@@ -148,7 +148,7 @@ The report should have accurate positioning and proper attribution.
 
 | Score | Description |
 |---:|---|
-| **2** | Concise positioning vs. closest work; accurate/sufficient citations; clear where prior methods fall short. |
+| **2** | Accurate/sufficient citations; clear where prior methods fall short. |
 | **1** | Coverage OK but thin; shortcomings of prior work unclear. |
 | **0** | Missing or very weak context. |
 
@@ -160,7 +160,7 @@ The writing, notation, and figures should be clear.
 |---:|---|
 | **2** | Clear narrative; consistent notation; legible, labeled figures/tables referenced in text. |
 | **1** | Understandable but with jargon jumps/undefined symbols or hard-to-read figures. |
-| **0** | Disorganized; illegible figures; math pasted without explanation. |
+| **0** | Disorganized; illegible figures; math without explanation. |
 
 ### Reproducibility & artifacts (2 pts)
 
