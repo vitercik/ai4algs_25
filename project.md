@@ -132,7 +132,7 @@ Your report should comply with the required structure.
 | **1** | Slightly under length; contributions paragraph vague. |
 | **0** | Major non-compliance with formatting instructions. |
 
-### Problem formulation & scope (2 pts)
+### Problem formulation (2 pts)
 
 It should be clear exactly what problem you solved and under what assumptions.
 
@@ -142,7 +142,7 @@ It should be clear exactly what problem you solved and under what assumptions.
 | **1** | Mostly clear but some missing assumptions/ambiguity. |
 | **0** | Unclear scope; it’s not obvious what is solved or proved. |
 
-### Context & related work (2 pts)
+### Related work (2 pts)
 
 The report should have accurate positioning and proper attribution.
 
@@ -152,7 +152,7 @@ The report should have accurate positioning and proper attribution.
 | **1** | Coverage OK but thin; shortcomings of prior work unclear. |
 | **0** | Missing or very weak context. |
 
-### Exposition & readability (2 pts)
+### Readability (2 pts)
 
 The writing, notation, and figures should be clear.
 
@@ -162,7 +162,7 @@ The writing, notation, and figures should be clear.
 | **1** | Understandable but with jargon jumps/undefined symbols or hard-to-read figures. |
 | **0** | Disorganized; illegible figures; math without explanation. |
 
-### Reproducibility & artifacts (2 pts)
+### Reproducibility (2 pts)
 
 The reader should be able to re-run your experiments or verify your proofs. Examples include:
 - **Empirical:** runnable code + configs (public repo or share privately with the course staff's GitHub handles **vitercik** and **zzyunzhi**); data sources/creation, seeds, splits, metrics, hardware, hyperparams; clear how to reproduce each table/figure.  
@@ -185,7 +185,7 @@ It should be clear exactly what problem you solved.
 
 | Score | Description |
 |---:|---|
-| **3** | Plain-English problem statement; audience-appropriate context. |
+| **3** | Plain-English problem statement with sufficient context for the audience to follow. |
 | **2** | Mostly clear; minor jargon/assumption jumps. |
 | **1** | Major use of jargon. |
 | **0** | Totally unclear what the talk is about or why it belongs here. |
@@ -201,17 +201,17 @@ Your method should be clearly explained.
 | **1** | Heavy jargon or slide-reading; key steps left implicit. |
 | **0** | Method/evidence largely unexplained. |
 
-### Interpretation & takeaways (2 pts)
+### Takeaways (2 pts)
 
 The "so-what" should be clear, as should the potential impact.
 
 | Score | Description |
 |---:|---|
-| **2** | Clear “so-what”; fair comparison framing (what was/wasn’t tested or proved). |
+| **2** | Clear “so-what” and interpretation of the results. |
 | **1** | Numbers/theorems with little interpretation. |
 | **0** | No takeaways beyond raw results. |
 
-### Visuals & structure (2 pts)
+### Delivery (2 pts)
 
 Emphasize slide readability, pacing, timing, and Q&A.
 
